@@ -1,4 +1,4 @@
-Taken the Magisk PixelXpert Canary v499 from here:
+Took the Magisk PixelXpert Canary v499 from here:
 https://github.com/siavash79/PixelXpert
 
 A great extra settings module on Google Pixel with Android 17. But the app will not start because of root-check-failure.
