@@ -16,3 +16,11 @@ It is a prepared artifact folder based on:
 - an extracted APK
 - local patching work done to bypass the app's root-service startup checks
 
+## Latest findings
+After having trouble with LSPosed,that crashed since a few days, the next solution  works for me:
+- replaced Zygisk Next with ReZygisk module 
+- replaced LSPosed with latest Vector module
+- activated PixelXpert in Vector
+
+That seems to work more stable and starts the phone way faster (but that is my humble experience).
+
